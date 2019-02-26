@@ -9,5 +9,11 @@ def main():
     bubble_sort(a)
     print(a)
 
+    # Копируем массив
+    # Применяем функцию
+    # print
+    # X2
+
+
 if __name__ == '__main__':
     main()
